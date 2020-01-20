@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Software Engineer"
+  company = "Seattle Consulting"
+  company_url = "https://www.seattleconsulting.co.jp/"
+  location = "Tokyo, Japan"
+  date_start = "2019-04-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Frontend Web Development
+  * Backend API Development
+  * Documentation and Testing
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "English Instructor"
+  company = "International Education Services"
+  company_url = "https://www.iesnet.co.jp/english/"
+  location = "Tokyo, Japan"
+  date_start = "2016-08-22"
+  date_end = "2019-03-31"
+  description = """Taught English at Japanese Elementary, Middle, and High Schools as well as Business English to government officials."""
+
+[[experience]]
+  title = "Student"
+  company = "University of California Davis"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "California, USA"
+  date_start = "2014-09"
+  date_end = "2016-04"
+  description = """Took courses in Computer Architecture, Artifical Intelligence, Computer Graphics, and Software Development. Participated in the UCD Game Dev Club."""
 
 +++

@@ -15,12 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "github"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Github"
+  description = "Github !TEST!"
   
-[[feature]]
+<!-- [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
@@ -30,6 +30,6 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "10%" -->
 
 +++
