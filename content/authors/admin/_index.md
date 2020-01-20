@@ -59,7 +59,7 @@ email: ""
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 
 Tyler Welsh is a developer and this site is WIP.
 
