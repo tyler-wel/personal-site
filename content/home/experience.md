@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://www.iesnet.co.jp/english/"
   location = "Tokyo, Japan"
   date_start = "2016-08-22"
-  date_end = "2019-03-31"
+  date_end = "2019-03-30"
   description = """Taught English at Japanese Elementary, Middle, and High Schools as well as Business English to government officials."""
 
 [[experience]]
@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   company = "University of California Davis"
   company_url = ""
   location = "California, USA"
-  date_start = "2014-09"
-  date_end = "2016-04"
+  date_start = "2014-09-01"
+  date_end = "2016-04-30"
   description = """Took courses in Computer Architecture, Artifical Intelligence, Computer Graphics, and Software Development. Participated in the UCD Game Dev Club."""
 
 +++
