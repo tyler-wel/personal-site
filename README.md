@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9a83968b-70a1-45bc-aedb-a9a67628902f/deploy-status)](https://app.netlify.com/sites/tylerwel/deploys)
 
-tylerwelsh.me
+[Link To Site](https://tylerwelsh.me)
 
 # TODO: Update
 
