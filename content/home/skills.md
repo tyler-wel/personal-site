@@ -18,6 +18,30 @@ subtitle = ""
   icon = "github"
   icon_pack = "fab"
   name = "Github"
-  description = "Github !TEST!"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
 
 +++

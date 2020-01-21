@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   title = "Data Science & Nueral Network Fundamentals"
   url = ""
   certificate_url = "https://www.kaggle.com/tylwelsh20"
-  date_start = "2019-09-01"
+  date_start = "2019-12-01"
   date_end = ""
-  description = "Learned the basics of Python, Scikit, Tensorflow, and more through Kaggle's courses."
+  description = "Learned the basics of Python, Scikit, Tensorflow, and more through Kaggle."
 
 [[item]]
   organization = "FreeCodeCamp"

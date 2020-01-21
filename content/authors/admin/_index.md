@@ -15,7 +15,7 @@ role: Full Stack and Data Science Engineer
 # Organizations/Affiliations
 organizations:
 - name: Seattle Consulting
-  url: ""
+  url: "https://www.seattleconsulting.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include Machine Learning, Nueral Networks, AI in Games, and Frontend Development.
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Science
+  - course: BS in Computer Science
     institution: University of California Davis
     year: 2016
 
