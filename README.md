@@ -2,7 +2,7 @@
 
 [Link To Site](https://tylerwelsh.me)
 
-Personal site made with Hugo based on the popular [Academic Kickstart](https://sourcethemes.com/academic/) theme/builder. Check it out to make your own site. 
+Personal site made with Hugo based on the popular [Academic](https://sourcethemes.com/academic/) theme/site builder. Check it out to make your own site. 
 
 ### Deploy Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9a83968b-70a1-45bc-aedb-a9a67628902f/deploy-status)](https://app.netlify.com/sites/tylerwel/deploys)
@@ -13,7 +13,9 @@ Academic makes it easy to create a beautiful website for free using Markdown, Ju
 
 ## License
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
+This site is Copyright 2020-present [Tyler Welsh](https://tylerwelsh.me)
+
+Academic is Copyright 2017-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
