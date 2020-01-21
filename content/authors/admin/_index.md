@@ -18,7 +18,7 @@ organizations:
   url: "https://www.seattleconsulting.co.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Machine Learning, Nueral Networks, AI in Games, and Frontend Development.
+bio: Interests include Machine Learning, Nueral Networks, AI in Games, Full-Stack Development, and learning to make witty sentences.
 
 interests:
 - Artificial Intelligence
@@ -61,6 +61,4 @@ email: ""
 # - Visitors
 ---
 
-Tyler Welsh is a developer and this site is WIP.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Still a WIP!
