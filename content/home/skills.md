@@ -15,33 +15,33 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "github"
+  icon = "java"
   icon_pack = "fab"
-  name = "Github"
+  name = "Java"
+  description = "5+ Years, Android SDK"
 
 [[feature]]
-  icon = "github"
+  icon = "js-square"
   icon_pack = "fab"
-  name = "Github"
+  name = "Javascript (ES6+)"
+  description = "2+ Years, VueJS/React"
 
 [[feature]]
-  icon = "github"
+  icon = "python"
   icon_pack = "fab"
-  name = "Github"
+  name = "Python"
+  description = "2+ Years, Tensorflow/PyTorch"
 
 [[feature]]
-  icon = "github"
+  icon = "unity"
   icon_pack = "fab"
-  name = "Github"
+  name = "Unity"
+  description = "3+ Years, Prototyping Games"
 
 [[feature]]
-  icon = "github"
+  icon = "aws"
   icon_pack = "fab"
-  name = "Github"
-
-[[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "Github"
+  name = "AWS"
+  description = "S3 Experience"
 
 +++

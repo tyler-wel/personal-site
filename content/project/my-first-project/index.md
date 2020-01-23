@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My First Project"
-summary: "Summary of my first project"
+title: "Test Jupyter Project"
+summary: "Super cool project."
 authors: []
 tags: []
-categories: ["Full Stack"]
+categories: ["Data Science"]
 date: 2020-01-21T22:08:19+09:00
 
 # Optional external URL for project (replaces project detail page).
@@ -39,13 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-# Project Test!
-
-## I'm a second header
-
-### I'm a third header
-
-and i'm some text!
-
-![Goose!](./goose.jpg)

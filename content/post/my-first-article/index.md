@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My First Article"
-subtitle: "It's awesome, I know"
-summary: "I'm a summary"
+title: "Test Article, Please Ignore"
+subtitle: "Awesome test article about nothing and a goose."
+summary: "Super awesome summary"
 authors: []
 tags: ["Test Tag"]
 categories: []
@@ -28,10 +28,10 @@ image:
 projects: []
 ---
 
-# Content!
+# Super Awesome Header
 
-## Content!!
+## Super Awesome Header #2
 
-### Content!!!!!
+### A Goose
 
 ![GOOSE](./goose.jpg)
