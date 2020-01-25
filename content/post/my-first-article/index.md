@@ -5,8 +5,8 @@ title: "Test Article, Please Ignore"
 subtitle: "Awesome test article about nothing and a goose."
 summary: "Super awesome summary"
 authors: []
-tags: ["Test Tag"]
-categories: []
+tags: ["Goose"]
+categories: ["Discussion"]
 date: 2020-01-21T22:07:55+09:00
 lastmod: 2020-01-21T22:07:55+09:00
 featured: true

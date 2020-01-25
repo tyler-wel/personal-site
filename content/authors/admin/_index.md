@@ -45,6 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tyler-wel
+- icon: dev
+  icon_pack: fab
+  link: https://dev.to/tylerwel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +63,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-
-Still a WIP!
+Full-Stack developer working in Tokyo, Japan. Languages I've been using recently include Ruby on Rails, Javascript (VueJS), and Java as well as AWS services. I am also familiar with React and have recently been learning GoLang for this website. Besides web development, I have a large interest in Data Science, Machine Learning, and AI for GameDev. On this site I'll be posting any of my notebooks that I feel aren't complete garbage for mostly educational purposes. Lastly, I have a love for coffee, dogs, and all things video games.

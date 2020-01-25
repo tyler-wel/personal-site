@@ -33,6 +33,12 @@ subtitle = ""
   description = "2+ Years, Tensorflow/PyTorch"
 
 [[feature]]
+  icon = "gem"
+  icon_pack = "fas"
+  name = "Ruby"
+  description = "1 Years, Ruby on Rails"
+
+[[feature]]
   icon = "unity"
   icon_pack = "fab"
   name = "Unity"

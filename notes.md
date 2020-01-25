@@ -1,5 +1,14 @@
 # Hugo Notes
 
+## Command Quick Sheet
+`hugo -D` - build with drafts
+`hugo server -D` - start server with drafts enabled
+`hugo new --kind post post/{post-name}` - create a new post
+`hugo new --kind project project/{project-name}` - create a new project
+
+## Quick notes
+Can use the front matter and a page's $page.Params. to customize stuff
+
 ## Local Development Testing
 - `hugo server -D` : start server with drafts 
 - `localhost:1313` : local dev server
@@ -74,8 +83,3 @@ https://themes.gohugo.io/
 - install themes by cloning into theme directory.
 - decalre theme in config
 
-## Commands
-`hugo` - ?
-`hugo -D` - build with drafts
-`hugo server` - start normal local server
-`hugo server -D` - start server with drafts enabled
