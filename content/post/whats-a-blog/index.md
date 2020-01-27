@@ -19,6 +19,10 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+# custom image size
+custom_size:
+  use: true
+  size: 500
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,3 +35,5 @@ projects: []
 So what IS a blog? I’ve never been much of a social media person, and this is my first blog. I've always just been more of a lurker. An overwhelming majority of blogs these days seem to be tutorials, or maybe I'm just in the wrong places. To anyone reading this, what is a blog to you? A place to learn new skills or perspectives on things? Discussion zones?
 
 I’m sure it’s going to take me awhile to get the hang of being a blogger, and I’ll be surprised if more than a single person ever reads this. But I guess you gotta start somewhere!
+
+*Leave a comment over at [dev.to](https://dev.to/tylerwel/what-s-a-blog-469a)!*

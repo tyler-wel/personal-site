@@ -18,6 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  # placement:
 # Custom featured image size
 custom_size:
   use: false
