@@ -5,11 +5,11 @@ title: "Whats a blog?"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["Blog"]
+tags: ["discussion", "water cooler", "productivity"]
 categories: ["Discussion"]
 date: 2020-01-25T12:31:20+09:00
 lastmod: 2020-01-25T12:31:20+09:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
