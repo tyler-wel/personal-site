@@ -43,4 +43,4 @@ Here's a few threads from the past I dug up if you're interested in reading more
 [Planning My Daily Routine](https://www.notion.so/What-your-morning-routine-as-a-dev-a825eae310064384901699cbf53406a2#d3b0493ab35746588a79b9321a156cfa)
 [The Miracle of a Morning Routine](https://www.notion.so/What-your-morning-routine-as-a-dev-a825eae310064384901699cbf53406a2#8adca3e73a5b44ea965f7c90e490fb59)
 
-*Leave a comment over at [dev.to](https://dev.to/tylerwel/what-is-your-morning-routine-4nhm)!*
+*Leave a comment over at [dev.to](https://dev.to/tylerwel/what-is-your-morning-routine-5672)!*
