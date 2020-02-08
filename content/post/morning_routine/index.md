@@ -3,7 +3,7 @@
 
 title: "What is your morning routine?"
 subtitle: ""
-summary: ""
+summary: "Discussion on morning routines"
 authors: []
 tags: ["discussion", "water cooler", "productivity"]
 categories: ["Discussion"]
