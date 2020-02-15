@@ -2,7 +2,7 @@
 
 [Link To Site](https://tylerwelsh.me)
 
-Personal site made with Hugo based on the popular [Academic](https://sourcethemes.com/academic/) theme/site builder. Check it out to make your own site. 
+Personal site made with Hugo based on the popular [Academic](https://github.com/gcushen/hugo-academic) theme/site builder. Check it out to make your own site. 
 
 ### Deploy Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9a83968b-70a1-45bc-aedb-a9a67628902f/deploy-status)](https://app.netlify.com/sites/tylerwel/deploys)

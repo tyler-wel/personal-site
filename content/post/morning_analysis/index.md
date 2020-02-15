@@ -61,4 +61,4 @@ I would love to do more surveys/data collection in the future! Still a beginner 
 
 If you have any advice, please let me know down below!
 
-*Leave a comment over at [dev.to](https://dev.to/tylerwel/)!*
+*Leave a comment over at [dev.to](https://dev.to/tylerwel/morning-routine-analysis-omf)!*
