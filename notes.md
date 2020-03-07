@@ -83,3 +83,6 @@ https://themes.gohugo.io/
 - install themes by cloning into theme directory.
 - decalre theme in config
 
+## When cloning
+`git submodule update --init --recursive`
+
