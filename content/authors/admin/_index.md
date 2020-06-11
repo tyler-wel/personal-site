@@ -14,7 +14,7 @@ role: Full Stack and Data Science Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Cwordcast
+- name: Crowdcast
   url: "https://crowdcast.jp/ja/"
 
 # Short bio (displayed in user profile at end of posts)
