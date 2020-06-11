@@ -14,8 +14,8 @@ role: Full Stack and Data Science Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Seattle Consulting
-  url: "https://www.seattleconsulting.co.jp/"
+- name: Cwordcast
+  url: "https://crowdcast.jp/ja/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interests include Machine Learning, Nueral Networks, AI in Games, Full-Stack Development, and learning to make witty sentences.
@@ -23,7 +23,7 @@ bio: Interests include Machine Learning, Nueral Networks, AI in Games, Full-Stac
 interests:
 - Artificial Intelligence
 - Game Development
-- Frontend Development
+- Backend Development
 
 education:
   courses:
