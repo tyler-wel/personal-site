@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 35  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -15,39 +15,33 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  description = "5+ Years, Android SDK"
+  icon = "gem"
+  icon_pack = "fas"
+  name = "Ruby"
+  description = "3 Years, Ruby on Rails"
 
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
-  name = "Javascript (ES6+)"
-  description = "2+ Years, VueJS/React"
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "2+ Years, Tensorflow/PyTorch"
-
-[[feature]]
-  icon = "gem"
-  icon_pack = "fas"
-  name = "Ruby"
-  description = "1 Years, Ruby on Rails"
-
-[[feature]]
-  icon = "unity"
-  icon_pack = "fab"
-  name = "Unity"
-  description = "3+ Years, Prototyping Games"
+  name = "Javascript"
+  description = "3 Years, React/VueJS"
 
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
   name = "AWS"
-  description = "S3 Experience"
+  description = "Lambda, SQS, S3, IAM"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "2+ Years, Chat bots, PyTorch"
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "2+ Years, Android Development"
 
 +++

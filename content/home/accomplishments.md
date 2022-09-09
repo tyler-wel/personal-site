@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates"
 subtitle = ""
 
 # Date format
@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Kaggle"
   organization_url = "https://www.kaggle.com"
-  title = "Data Science & Nueral Network Fundamentals"
+  title = "Data Science & Neural Network Fundamentals"
   url = ""
   certificate_url = "https://www.kaggle.com/tylwelsh20"
   date_start = "2019-12-01"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = ""
   description = "FreeCodeCamp Certificates (3)"
-  
+
 [[item]]
   organization = "JLPT"
   organization_url = "https://www.jlpt.jp/e/"

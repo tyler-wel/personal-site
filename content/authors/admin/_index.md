@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Full Stack and Data Science Engineer
+role: Full Stack and Lead Backend Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: "https://crowdcast.jp/ja/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interests include Machine Learning, Nueral Networks, AI in Games, Full-Stack Development, and learning to make witty sentences.
+bio: Interests include Machine Learning, Neural Networks, AI in Games, Full-Stack Development, and learning to make witty sentences.
 
 interests:
+- Full Stack Development
 - Artificial Intelligence
-- Game Development
-- Backend Development
+- Tabletop Gaming
 
 education:
   courses:
@@ -45,14 +45,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tyler-wel
-- icon: dev
+- icon: linkedin
   icon_pack: fab
-  link: https://dev.to/tylerwel
+  link: https://www.linkedin.com/in/tylwelsh/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,4 +63,4 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-Full-Stack developer working in Tokyo, Japan. Languages I've been using recently include Ruby on Rails, Javascript (VueJS), and Java as well as AWS services. I am also familiar with React and have recently been learning GoLang for this website. Besides web development, I have a large interest in Data Science, Machine Learning, and AI for GameDev. On this site I'll be posting any of my notebooks that I feel aren't complete garbage for mostly educational purposes. Lastly, I have a love for coffee, dogs, and all things video games.
+Backend engineer with full-stack experience working in Tokyo, Japan. Languages used on a day to day basis include Ruby (Rails), Javascript (React), and Python (chat bots). I also have experience with AWS services including Lambda, DynamoDB, SQS, and IAM. Besides web development, I have interests in machine learning and reverse engineering, which is what I enjoyed learning the most at my time at Uni. Outside of work I mostly enjoy the typical nerd hobbies of video and tabletop games, spending much of my free time either gaming or painting miniatures.

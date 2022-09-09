@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 39  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Software Engineer"
+  title = "Backend Team Lead"
   company = "Crowdcast"
   company_url = "https://crowdcast.jp/ja/"
   location = "Tokyo, Japan"
@@ -26,8 +26,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
+  * Organizing and leading the Backend team, assigning tasks, code reviews
+  * Assist in planning of new features, and help make decisions on what's best for the product
+  * Work directly with and assist the QA team with bugs
+  * Write documentation and business specifications for features
 
-  * Backend API Development
+  Notable Accomplishments:
+  * Rebuilt the email notification system as a AWS Lambda microservice
+  * Implemented Microsoft and Apple SSO using OAuth2 and OpenID for the product
+  * Built features as a full stack engineer (backend, web, and mobile devices)
   """
 
 [[experience]]
